@@ -1,12 +1,6 @@
 ## Technical Task Description ##
 
-Technical Test Guidance for candidate
-
-Please construct an automated test framework to execute the steps below. This can be done in any language and framework of your choice. This can be written entirely from scratch, or by building on existing templates, and following any format that you would like to use. Please upload your work to a git repository and share the link with us prior to your interview.
-
- 
-
-We will ask you about your choices and for you to make some changes to what is tested during the technical interview.
+Please construct an automated test framework to execute the steps below. 
 
  
 Steps
