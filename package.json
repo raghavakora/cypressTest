@@ -1,14 +1,16 @@
 {
-  "name": "cypresstest",
+  "name": "saucedemo",
   "version": "1.0.0",
-  "description": "",
+  "description": "saucedemo test",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test-chrome": "./node_modules/.bin/cypress run --headed --browser chrome",
+    "test": "./node_modules/.bin/cypress run"
   },
   "author": "Raghav Kora",
   "license": "ISC",
   "dependencies": {
-    "cypress": "^11.0.0"
+    "cypress": "11.0.1"
   }
+
 }
