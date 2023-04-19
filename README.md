@@ -20,4 +20,5 @@ node and npm should be installed
 
 # Test-report
 Every Time Test has executed a video of the execution will be available in the project folder location 
+
 Ex: cypressTest/cypress/videos/
