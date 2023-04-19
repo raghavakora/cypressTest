@@ -2,6 +2,9 @@
 
 Please construct an automated test framework to execute the steps below. 
 
+## How tests are designed
+Tests are designed using cypress framework with Javascript
+Test will perform the relevant actions as mentioned in below steps
  
 Steps
 1. Navigate to the following URL https://www.saucedemo.com/
