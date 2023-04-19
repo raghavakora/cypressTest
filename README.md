@@ -18,3 +18,6 @@ node and npm should be installed
 3. npm run test : running all the tests in headless mode
 4. npm run test-chrome : running all the tests in chrome where test execution will be visible 
 
+# Test-report
+Every Time Test has executed a video of the execution will be available in the project folder location 
+Ex: cypressTest/cypress/videos/
