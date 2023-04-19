@@ -6,7 +6,7 @@ Please construct an automated test framework to execute the steps below.
 Tests are designed using cypress framework with Javascript
 Test will perform the relevant actions as mentioned in below steps
  
-Steps
+## Steps
 1. Navigate to the following URL https://www.saucedemo.com/
 2. Login using the following details (username: standard_user, password: secret_sauce)
 3. Select the highest price item (Please do not use the “Sort By” option on the page).
